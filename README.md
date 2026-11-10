@@ -17,6 +17,10 @@ I look at how a process works today, find the manual steps, build tools that rem
 
 - **[fish-freshness-estimator](https://github.com/ahmed-tiffrent/fish-freshness-estimator)**: an EfficientNetB3 model that rates fish freshness from a photo of the eye, with 81.06% test accuracy on 3 balanced classes, served in a Streamlit app with Grad-CAM heatmaps.
 
+#### MSc User Experience Design (University of Brighton)
+
+- **[novacap-escape-room](https://github.com/ahmed-tiffrent/novacap-escape-room)** (team of 6, [play it](https://ahmed-tiffrent.github.io/novacap-escape-room/)): a browser escape room that teaches phishing, password and social engineering awareness. I built the first version with AI-assisted coding and helped design and run the user tests. Across 3 rounds with 8 testers, average knowledge scores rose from 4.4 to 8.3 out of 10.
+
 #### Dashboards and data analysis
 
 - **[sprint-dashboard](https://github.com/ahmed-tiffrent/sprint-dashboard)** (MSc, University of Brighton): a React and Recharts dashboard built from a Scrum spreadsheet, with progress figures, a burndown chart of ideal against actual effort, and a task board.
