@@ -33,7 +33,7 @@ I look at how a process works today, find the manual steps, build tools that rem
 
 #### Contributions
 
-- **[Python-Scripts](https://github.com/allagaymen/Python-Scripts)** by Aymen Allag: eight small Python projects, from a snake game to web scrapers that use requests, BeautifulSoup and Selenium. I wrote the README.
+- **[Python-Scripts](https://github.com/allagaymen/Python-Scripts)** by Aymen Allag: eight small Python projects, from turtle games and a Pomodoro timer to web scrapers built with requests, BeautifulSoup and Selenium. I wrote the README, moved a hardcoded Gmail login into environment variables, fixed four bugs (a quiz loop check, a states export that saved every state, a chart scraper that ignored the date entered and a listing scraper that dropped the last result) and finished the Pomodoro timer.
 
 #### Tools
 
