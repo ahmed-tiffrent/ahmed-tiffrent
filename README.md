@@ -10,6 +10,10 @@ I look at how a process works today, find the manual steps, build tools that rem
 - **[jeff-newsletter-tool](https://github.com/ahmed-tiffrent/jeff-newsletter-tool)** (client project, [live](https://jeff-newsletter-tool.netlify.app/)): a web tool that collects Industry 4.0 event news from Google News, lets the client shortlist stories and add commentary, and exports the shortlist to Excel.
 - **Shopify stock tool** (internship, code private): a Cloudflare tool that sets exact stock levels in Shopify for recycled sequin waste, built with AI-assisted coding.
 
+#### Final year project (MSc and Engineer in Computer Science, ESI-SBA, 2025)
+
+- **[fish-freshness-estimator](https://github.com/ahmed-tiffrent/fish-freshness-estimator)**: an EfficientNetB3 model that rates fish freshness from a photo of the eye, with 81.06% test accuracy on 3 balanced classes, served in a Streamlit app with Grad-CAM heatmaps.
+
 #### Data analysis and machine learning (university projects at ESI-SBA, built with [Aymen Allag](https://github.com/allagaymen))
 
 - **[M-taheuristiques-base-de-jeu](https://github.com/allagaymen/M-taheuristiques-base-de-jeu)**: cleans and encodes a Facebook profiles dataset, selects features, tunes a Random Forest with the Tiki-Taka metaheuristic to detect fake profiles, and reports accuracy, precision, recall, F1 and ROC-AUC with a feature importance chart.
@@ -19,11 +23,9 @@ I look at how a process works today, find the manual steps, build tools that rem
 
 - **[Python-Scripts](https://github.com/allagaymen/Python-Scripts)** by Aymen Allag: eight small Python projects, from a snake game to web scrapers that use requests, BeautifulSoup and Selenium. I wrote the README.
 
-<!-- Placeholder: add the MSc and engineering final projects here once they are uploaded -->
-
 #### Tools
 
-Python (pandas, NumPy, scikit-learn) · JavaScript and Node.js · GitHub Actions · Git · GA4 · Google Search Console · Shopify · Jira and Confluence · Claude Code and Codex
+Python (pandas, NumPy, scikit-learn, TensorFlow and Keras) · Streamlit · JavaScript and Node.js · GitHub Actions · Git · GA4 · Google Search Console · Shopify · Jira and Confluence · Claude Code and Codex
 
 ---
 
